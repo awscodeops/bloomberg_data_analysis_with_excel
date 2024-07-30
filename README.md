@@ -21,3 +21,5 @@ The Bloomberg spreadsheet has many details,but I focused on the following steps:
 This approach helps isolate essential information and streamlining the process of creating the P&L structure.
 
 ![picture1](/images/Picture1.png)
+
+This is the end
